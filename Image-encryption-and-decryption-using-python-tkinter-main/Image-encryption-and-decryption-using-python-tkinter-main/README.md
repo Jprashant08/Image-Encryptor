@@ -21,7 +21,3 @@ Steps to Decrypt the image:
 4. you will get a successfull decryption message
 
 
-
-connect me on linkedin for any queries:
-https://www.linkedin.com/in/shubham-y-3852a8184/
-
